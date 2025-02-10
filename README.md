@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f4bbbb&height=300&section=header&text=Welcome,%20Ji-Eun%20GitHub!&fontSize=80&fontAlignY=35&fontColor=fff)
 
 # Hi there! 👋
@@ -36,7 +35,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔥 Projects
-**YONO Project:**
+- **YONO Project:**
 
   YONO 프로젝트는 ‘건강한 소비 습관 형성’을 목표로 개발된 웹페이지로, 유저들이 똑똑한 소비를 실천하면서도 절약에 대한 동기 부여를 받을 수 있는 시스템을 제공합니다.
   최근 ‘플렉스’, ‘욜로(YOLO)’와 같은 신조어와 함께 확산된 무분별한 소비 문화가 장기적인 재정적 부담을 초래할 수 있다는 점에 주목하여, 소비를 즐기되 효율적으로 관리할 수 있는 방법을 제안하고자 이 프로젝트를 기획하게 되었습니다.
@@ -49,13 +48,12 @@
 
 **더 많은 프로젝트가 곧 제공될 예정입니다...**
 
-### GitHub Stats
+### ✨ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didieun&show_icons=true&theme=radical)
 
 ## 📫 Contact
-**GitHub:** https://github.com/didieun
-**Email:** playwithme31@naver.com
+- **GitHub:** https://github.com/didieun
+- **Email:** playwithme31@naver.com
 
 Thanks for visiting my profile! 😃
 
-</div>
