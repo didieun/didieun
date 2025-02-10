@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome,%20Ji-Eun%20GitHub!&fontSize=40&fontAlignY=35&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#f4bbbb&height=200&section=header&text=Welcome,%20Ji-Eun%20GitHub!&fontSize=40&fontAlignY=35&fontColor=white)
     
 # Hi there! 👋
 
