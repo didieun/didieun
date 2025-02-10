@@ -1,14 +1,11 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f4bbbb&height=300&section=header&text=Welcome,%20Ji-Eun%20GitHub!&fontSize=80&fontAlignY=35&fontColor=fff)
 
-    <div style="test-align: center">
-    # Hi there! 👋
+# Hi there! 👋
 
 ## 💻 About Me
 저는 React를 전문으로 하는 프런트엔드 개발 경험이 있는 풀스택 웹 개발자 입니다. 
 저는 퍼블리셔로 경력을 시작했고 점차적으로 프런트엔드 개발 분야로 기술을 확장했습니다. 
-    </div>
-    
-
 
 ## 🚀 Skills
 ### ✨Frontend
@@ -55,3 +52,5 @@
 - **Email:** playwithme31@naver.com
 
 Thanks for visiting my profile! 😃
+
+</div>
