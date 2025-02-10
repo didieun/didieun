@@ -18,4 +18,12 @@
 - **GitHub:** [[github.com/your-username](https://github.com/your-username)](https://github.com/didieun)
 - **Email:** playwithme31@naver.com
 
-Thanks for visiting my profile! 😃
+## 🏆 GitHub Stats & Badges
+### Shields.io Badges
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username?style=social)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
