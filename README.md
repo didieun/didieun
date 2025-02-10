@@ -23,6 +23,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 
+![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%234B5320.svg?style=for-the-badge&logo=framework&logoColor=white)
+
 ### ✨Database
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
