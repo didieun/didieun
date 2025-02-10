@@ -32,9 +32,11 @@
 - **YONO Project:** Developed a member management page, optimized performance by handling data processing in Spring Boot, and ensured reusability with common UI components.
 - **More projects coming soon...**
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didieun&show_icons=true&theme=radical)
+
 ## 📫 Contact
 - **GitHub:** https://github.com/didieun
 - **Email:** playwithme31@naver.com
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didieun&show_icons=true&theme=radical)
+Thanks for visiting my profile! 😃
