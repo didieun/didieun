@@ -1,6 +1,4 @@
-<div class="header">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Hi, Ji-eun's GitHub👋">
-</div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20render&fontSize=90)
     
 # Hi there! 👋
 
