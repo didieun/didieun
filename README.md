@@ -33,7 +33,7 @@
 - **More projects coming soon...**
 
 ## 📫 Contact
-- **GitHub:** (https://github.com/didieun)
+- **GitHub:** https://github.com/didieun
 - **Email:** playwithme31@naver.com
 
 ### GitHub Stats
