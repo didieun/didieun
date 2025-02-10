@@ -9,6 +9,11 @@
 - **Backend:** Spring Boot
 - **Database:** Oracle
 - **Tools & Others:** Git, GitHub, Figma
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🔥 Projects
 - **YONO Project:** Developed a member management page, optimized performance by handling data processing in Spring Boot, and ensured reusability with common UI components.
@@ -18,12 +23,5 @@
 - **GitHub:** [[github.com/your-username](https://github.com/your-username)](https://github.com/didieun)
 - **Email:** playwithme31@naver.com
 
-## 🏆 GitHub Stats & Badges
-### Shields.io Badges
-![GitHub followers](https://img.shields.io/github/followers/didieun?style=social)
-![GitHub stars](https://img.shields.io/github/stars/didieun?style=social)
-![GitHub forks](https://img.shields.io/github/forks/didieun?style=social)
-
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didieun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didieun&layout=compact&theme=radical)
