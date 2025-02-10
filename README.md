@@ -49,7 +49,7 @@
   YONO 프로젝트는 단순한 절약 도구를 넘어, 유저들이 건강한 소비 문화를 실천할 수 있도록 돕는 종합적인 플랫폼으로서 의미를 가집니다.
 
 
-**더 많은 프로젝트가 곧 제공될 예정입니다...**
+- **더 많은 프로젝트가 곧 제공될 예정입니다...**
 
 ### ✨ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didieun&show_icons=true&theme=radical)
