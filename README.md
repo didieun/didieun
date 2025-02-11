@@ -32,15 +32,15 @@
 ![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%234B5320.svg?style=for-the-badge&logo=framework&logoColor=white)
 
-### ✨Database
+#### ✨Database
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ✨ Tools & Others
+#### ✨ Tools & Others
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23339933.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### ✨ Development Tools  
+#### ✨ Development Tools  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
